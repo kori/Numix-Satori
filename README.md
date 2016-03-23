@@ -1,6 +1,8 @@
 ### Numix-Satori
 This is a mod of Numix that uses [my colorscheme, Satori.](http://dotshare.it/dots/811/)
 
+![preview.png](https://raw.githubusercontent.com/kori/Numix-Satori/master/preview.png)
+
 ### Manual installation
 
 Extract the zip file to some themes directory i.e. `/usr/share/themes/` or `~/.themes`
